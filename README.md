@@ -1,7 +1,8 @@
 ### Hi there 👋
-  
-"Poop in one's pants" is “unkomorasi” in Japanese.  
-"unkomorasi" is Written "うんこ漏らし" in Japanese.  
+
+Hobbies.
+I use JavaScript for my work.
+I want money.
 
 <!--
 **unkomorasi01/unkomorasi01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
