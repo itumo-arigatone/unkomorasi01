@@ -1,8 +1,7 @@
 ### Hi there 👋
 
-Hobbies.
-I use JavaScript for my work.
-I want money.
+Hobbies.  
+I use JavaScript for my work.  
 
 <!--
 **unkomorasi01/unkomorasi01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
