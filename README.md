@@ -3,10 +3,8 @@
 Hobbies.  
 I use JavaScript for my work.    
   
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=unkomorasi01)]
-(https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=unkomorasi01
-)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=unkomorasi01)](https://github.com/anuraghazra/github-readme-stats)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=unkomorasi01)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **unkomorasi01/unkomorasi01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
